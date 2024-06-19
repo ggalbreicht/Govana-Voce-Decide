@@ -14,7 +14,7 @@ const perguntas = [
   },
   
   {
-    enunciado: "Com a descoberta desta tecnologia chamada inteligência artificial (IA), uma professora de tecnologia de uma escola decidiu fazer uma seuquência de aulas sobre essa ferramenta. No fim de uma aula, ela pede qaue você esceva um trabalho sobre o uso da IA em sala de aula. Qual atitude você toma?",
+    enunciado: "Com a descoberta desta tecnologia chamada inteligência artificial (IA), uma professora de tecnologia de uma escola decidiu fazer uma sequência de aulas sobre essa ferramenta. No fim de uma aula, ela pede qaue você esceva um trabalho sobre o uso da IA em sala de aula. Qual atitude você toma?",
     alternativas: [
       "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes parao trabalho e explique em uma linguagem que facilite o entendimento.",
       "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."
